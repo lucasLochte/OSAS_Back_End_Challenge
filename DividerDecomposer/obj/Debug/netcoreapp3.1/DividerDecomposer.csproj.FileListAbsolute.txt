@@ -1,0 +1,12 @@
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.exe
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.deps.json
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.runtimeconfig.json
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.runtimeconfig.dev.json
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.dll
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\bin\Debug\netcoreapp3.1\DividerDecomposer.pdb
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.AssemblyInfoInputs.cache
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.AssemblyInfo.cs
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.csproj.CoreCompileInputs.cache
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.dll
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.pdb
+C:\Users\eliane\Desktop\Cursos\PraticaC#\DividerDecomposer\DividerDecomposer\obj\Debug\netcoreapp3.1\DividerDecomposer.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividerDecomposer", "DividerDecomposer\DividerDecomposer.csproj", "{2ADED58E-3FED-446D-ADA7-338F6017B127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividerDecomposerTests", "DividerDecomposerTests\DividerDecomposerTests.csproj", "{9B1FEBC2-B431-4955-A110-00A59D0B8EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADED58E-3FED-446D-ADA7-338F6017B127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADED58E-3FED-446D-ADA7-338F6017B127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADED58E-3FED-446D-ADA7-338F6017B127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADED58E-3FED-446D-ADA7-338F6017B127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1FEBC2-B431-4955-A110-00A59D0B8EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1FEBC2-B431-4955-A110-00A59D0B8EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1FEBC2-B431-4955-A110-00A59D0B8EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1FEBC2-B431-4955-A110-00A59D0B8EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B361F64-938A-4A0A-81F5-C333E2E0322F}
+	EndGlobalSection
+EndGlobal
